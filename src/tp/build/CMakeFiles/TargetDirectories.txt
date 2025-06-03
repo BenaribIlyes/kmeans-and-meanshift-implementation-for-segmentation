@@ -1,0 +1,5 @@
+/home/ibb9611/Bureau/tpTI/src/tp/build/CMakeFiles/rebuild_cache.dir
+/home/ibb9611/Bureau/tpTI/src/tp/build/CMakeFiles/edit_cache.dir
+/home/ibb9611/Bureau/tpTI/src/tp/build/CMakeFiles/tp_image.dir
+/home/ibb9611/Bureau/tpTI/src/tp/build/CMakeFiles/meanshift.dir
+/home/ibb9611/Bureau/tpTI/src/tp/build/CMakeFiles/kmeans.dir
