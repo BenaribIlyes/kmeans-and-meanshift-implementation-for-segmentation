@@ -1,4 +1,4 @@
-# tp_image
+ KMeans and Meanshift implementation for segmentation 
 
 ## 1. Description
 The `tpTI` program is a tool for **image segmentation** using two methods:
@@ -54,3 +54,6 @@ All commands assume you are in the `tpTI/src/tp/build` directory after building 
 ### K-Means
 ```bash
 ./kmeans <image_file> <k> [ground_truth] <output_kmeans>
+
+./meanshift <hs> <hc> <epsilon> <kmax> <image_file> <output_meanshift> [ground_truth]
+
